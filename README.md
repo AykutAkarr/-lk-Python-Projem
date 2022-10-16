@@ -6,4 +6,4 @@ Kartınız Hangi Tür Olduğunu Öğrenmek İçin Kullana Bileceğiniz Bir Uyugu
 
 Bini Girerken 8 kartınızın ilk sekiz hanesi olmasına dikkat ediniz.
 
-[![Watch the video]([https://www.youtube.com/watch?v=GxjKIbkEE30)]
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/GxjKIbkEE30)
